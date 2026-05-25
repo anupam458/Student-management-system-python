@@ -13,7 +13,7 @@ basic CRUD operations.
 - 🔍 Search student by roll number
 - ✏️ Update student details
 - ❌ Delete student records
-- 💾 Save data to a file
+- 💾 Save data to a open file
 
 ---
 
